@@ -1,0 +1,110 @@
+{
+  "version": 1,
+  "description": "Prueba de ocho WAV PCM, uno por pista; no son las 400 capas del catálogo",
+  "samples": [
+    {
+      "track": 0,
+      "name": "Soul · overhead, bordona puesta",
+      "catalogId": "t0-04",
+      "source": "Virtuosity",
+      "license": "CC0 1.0",
+      "sourceUrl": "https://raw.githubusercontent.com/sfzinstruments/virtuosity_drums/9f04cf9a734527edfbb0a4eee1f674e45bbf71bc/Samples/oh/kick/oh_kick_snon_vl3_rr1.flac",
+      "sourceGitBlob": "4f458a3d5c86595bb2dfad62712864d969932f8a",
+      "wav": "wav/track-0.wav",
+      "wavSha256": "adc12c4b06bf650f3ca254be7bf87785df43fb2329d8b36c18b2d6cc89dc6660",
+      "wavBytes": 450232,
+      "removedMs": 4.688
+    },
+    {
+      "track": 1,
+      "name": "Porkpie · centro",
+      "catalogId": "t1-03",
+      "source": "AVL",
+      "license": "CC BY-SA 3.0 + excepción musical",
+      "sourceUrl": "https://raw.githubusercontent.com/studiorack/avl-drumkits/b06cb2c27359cbc68a830a82bddced05bd73d1a0/Samples/38-PorkpieSnare-3.flac",
+      "sourceGitBlob": "12c810e858b8f08a03bd6efdcf3d0ca0a2d85c13",
+      "wav": "wav/track-1.wav",
+      "wavSha256": "fa503112c941a51aad32ae748101c44cdd97eebcd217fd7a8969fb88eeefa728",
+      "wavBytes": 87952,
+      "removedMs": 2.812
+    },
+    {
+      "track": 2,
+      "name": "Aireado · cerrado micro de caja",
+      "catalogId": "t2-09",
+      "source": "Virtuosity",
+      "license": "CC0 1.0",
+      "sourceUrl": "https://raw.githubusercontent.com/sfzinstruments/virtuosity_drums/9f04cf9a734527edfbb0a4eee1f674e45bbf71bc/Samples/snaremic/hh/snaremic_hh_closed_vl3_rr1.flac",
+      "sourceGitBlob": "ae2094d8f691520ca8087c164c9a3e6d72b2a751",
+      "wav": "wav/track-2.wav",
+      "wavSha256": "63afaf6dee40dd6b5af1c466a929237e71240ec3bace88e6a0cf3047e8c6ff01",
+      "wavBytes": 66532,
+      "removedMs": 3.375
+    },
+    {
+      "track": 3,
+      "name": "Pedal · apertura splash",
+      "catalogId": "t3-06",
+      "source": "Virtuosity",
+      "license": "CC0 1.0",
+      "sourceUrl": "https://raw.githubusercontent.com/sfzinstruments/virtuosity_drums/9f04cf9a734527edfbb0a4eee1f674e45bbf71bc/Samples/oh/hh/oh_hh_splash_rr1.flac",
+      "sourceGitBlob": "e90326e593837eea129ea08f2644f2ca2d5bf608",
+      "wav": "wav/track-3.wav",
+      "wavSha256": "63228cd662c270d8a0ada582429695fa2a99fdcad078d51dbd96fa2336a28f0a",
+      "wavBytes": 882328,
+      "removedMs": 4.979
+    },
+    {
+      "track": 4,
+      "name": "Soul · apagado",
+      "catalogId": "t4-08",
+      "source": "Virtuosity",
+      "license": "CC0 1.0",
+      "sourceUrl": "https://raw.githubusercontent.com/sfzinstruments/virtuosity_drums/9f04cf9a734527edfbb0a4eee1f674e45bbf71bc/Samples/oh/ltom/oh_ltom_muted_vl9.flac",
+      "sourceGitBlob": "6f9d523fadec0f5fb6a5dd1a278e1f8844ea92dd",
+      "wav": "wav/track-4.wav",
+      "wavSha256": "35290747dc4e313b3b19744cc4ae0fef944be1dad0c77eb1397eb85d81771760",
+      "wavBytes": 457052,
+      "removedMs": 5.646
+    },
+    {
+      "track": 5,
+      "name": "Soul · descentrado lo-fi",
+      "catalogId": "t5-09",
+      "source": "Virtuosity",
+      "license": "CC0 1.0",
+      "sourceUrl": "https://raw.githubusercontent.com/sfzinstruments/virtuosity_drums/9f04cf9a734527edfbb0a4eee1f674e45bbf71bc/Samples/lofi/htom/lofi_htom_offcenter_vl9.flac",
+      "sourceGitBlob": "ea2aad1bdfb000d39d6ce9e1174314aecd132151",
+      "wav": "wav/track-5.wav",
+      "wavSha256": "3cfff859d5f95f19ac9d588fa447a460ab198176f9c92bcaca88b6d21048df14",
+      "wavBytes": 258344,
+      "removedMs": 7.812
+    },
+    {
+      "track": 6,
+      "name": "Zildjian K 17 · crash",
+      "catalogId": "t6-04",
+      "source": "AVL",
+      "license": "CC BY-SA 3.0 + excepción musical",
+      "sourceUrl": "https://raw.githubusercontent.com/studiorack/avl-drumkits/b06cb2c27359cbc68a830a82bddced05bd73d1a0/Samples/57-ZildjianK17Crash-3.flac",
+      "sourceGitBlob": "58ec5325883e70bf0c399d307c061bddbabd7082",
+      "wav": "wav/track-6.wav",
+      "wavSha256": "265a8cebb94b87c03b4be1ba14f013cd5d2ae6c3ed57acbd1a74a4e98148cb10",
+      "wavBytes": 353076,
+      "removedMs": 0.0
+    },
+    {
+      "track": 7,
+      "name": "Soul · ride overhead",
+      "catalogId": "t7-09",
+      "source": "Virtuosity",
+      "license": "CC0 1.0",
+      "sourceUrl": "https://raw.githubusercontent.com/sfzinstruments/virtuosity_drums/9f04cf9a734527edfbb0a4eee1f674e45bbf71bc/Samples/oh/ride/oh_ride_ride_vl2_rr1.flac",
+      "sourceGitBlob": "7bd3f5b5998be54c876097ff622598b2587b39a3",
+      "wav": "wav/track-7.wav",
+      "wavSha256": "dd07d22b191897fd1bb9736d8feed22f2aeef998c08000f096015f16a3ad5aa6",
+      "wavBytes": 1620820,
+      "removedMs": 3.917
+    }
+  ]
+}
